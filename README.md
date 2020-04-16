@@ -6,6 +6,7 @@ Resume: [link](./misc/Resume.pdf)
 
 ### Open-source Projects
 * [Multithread ROS image compressor](https://github.com/zhijie-yang/image-compress-pkg)
+* [SolidCAM DMU 50 post-processor](https://github.com/zhijie-yang/SolidCamPostProcessor)
 
 
 
