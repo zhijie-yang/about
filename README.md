@@ -1,18 +1,21 @@
-## 杨之杰
-
-## Zhijie Yang
+## 杨之杰 Zhijie Yang
 
 Email: yangzhj *at* shanghaitech *dot* edu *dot* cn | zhijie.yang *at* tum *dot* de
 
 Resume: [link](./misc/Resume.pdf)
 
+Google Scholar: [link](https://scholar.google.com/citations?user=PoMavK4AAAAJ)
+
+ORCID iD: [link](https://orcid.org/0000-0002-0731-303X)
+
 ### Biography
 
 Zhijie Yang received his Bachelor's Degree of Engineering in Computer Science and Technology from ShanghaiTech University in 2020. He is currently a research assistant at ShanghaiTech University, under Prof. Sören Schwertfeger's supervision. He will join Technical University Munich to continue his Master's Degree study in Informatics in winter 2020.
 
+
 His research interest is mainly on robot perception. 
 
-### Published Paper
+### Published Papers
 
 * [Hongyu Chen, et al. "Towards generation and evaluation of comprehensive mapping robot datasets." *arXiv preprint arXiv:1905.09483* (2019).](https://arxiv.org/abs/1905.09483)
 
