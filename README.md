@@ -1,6 +1,6 @@
 ## 杨之杰 Zhijie Yang
 
-Email: yangzhj *at* shanghaitech *dot* edu *dot* cn | zhijie.yang *at* tum *dot* de
+Email: zhijie.yang98 *at* outlook *dot* com
 
 Resume: [link](./misc/Resume.pdf)
 
