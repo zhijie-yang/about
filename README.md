@@ -19,11 +19,10 @@ His research interest is mainly about robot perception.
 
 * [Hongyu Chen, et al. "Towards generation and evaluation of comprehensive mapping robot datasets." *arXiv preprint arXiv:1905.09483* (2019).](https://arxiv.org/abs/1905.09483)
 
-* [Hongyu Chen, et al. “Advanced mapping robot and high-resolution dataset”. In:Robotics and Autonomous Systems(2020), p.103559.issn: 0921-8890.](https://doi.org/https://doi.org/10.1016/j.robot.2020.103559)
+* [Hongyu Chen, et al. “Advanced mapping robot and high-resolution dataset”. In:Robotics and Autonomous Systems(2020), p.103559.issn: 0921-8890.](https://doi.org/10.1016/j.robot.2020.103559)
 
-### Unpublished Paper
+* [Zhao, Xiting, Zhijie Yang, and Sören Schwertfeger. "Mapping with Reflection - Detection and Utilization of Reflection in 3D Lidar Scans," 2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Abu Dhabi, UAE, 2020, pp. 27-33, doi: 10.1109/SSRR50563.2020.9292595.](https://ieeexplore.ieee.org/abstract/document/9292595)
 
-* [Zhao, Xiting, Zhijie Yang, and Sören Schwertfeger. "Mapping with Reflection--Detection and Utilization of Reflection in 3D Lidar Scans." *arXiv preprint arXiv:1909.12483* (2019).](https://arxiv.org/abs/1909.12483)
 
 ### Open-source Projects
 
