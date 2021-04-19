@@ -2,9 +2,9 @@
 
 ## 1. 安装wine环境
 
-1. 参考https://github.com/wszqkzqk/deepin-wine-ubuntu中的本地安装方法，clone仓库后执行`./install.sh`.
+1. 参考https://github.com/wszqkzqk/deepin-wine-ubuntu 中的本地安装方法，clone仓库后执行`./install.sh`.
 
-2. 从https://packages.deepin.com/deepin/pool/non-free/d/中获取deepin.com.qq.office的deb包，下载以后通过dpkg安装.
+2. 从https://packages.deepin.com/deepin/pool/non-free/d/ 中获取deepin.com.qq.office的deb包，下载以后通过dpkg安装.
 
 ## 2. 安装字体
 
@@ -59,3 +59,14 @@ X Error of failed request:  BadValue (integer parameter out of range for operati
 
 
 下载.run格式的驱动程序，重新安装nvidia显卡驱动，并使用参数`--no-opengl-files`.
+
+### 图片和头像无法显示
+
+禁用ipv6，但对日后脱离ipv4使用是否会有影响尚不明确。
+
+```bash
+sudo sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
+sudo sysctl -w net.ipv6.conf.lo.disable_ipv6=1
+```
+
