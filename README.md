@@ -10,7 +10,7 @@ ORCID iD: [link](https://orcid.org/0000-0002-0731-303X)
 
 ### Biography
 
-Zhijie Yang received his Bachelor's Degree of Engineering in Computer Science and Technology from ShanghaiTech University in 2020. He is currently a research assistant at ShanghaiTech University, under Prof. Sören Schwertfeger's supervision. He will attend at Technical University of Munich to continue his Master's Degree study in Informatics in winter 2020.
+Zhijie Yang received his Bachelor's Degree of Engineering in Computer Science and Technology from ShanghaiTech University in 2020. He is currently a master student studying informatics (computer science) at Technical University of Munich.
 
 
 His research interest is mainly about robot perception. 
