@@ -13,7 +13,7 @@ ORCID iD: [link](https://orcid.org/0000-0002-0731-303X)
 Zhijie Yang received his Bachelor's Degree of Engineering in Computer Science and Technology from ShanghaiTech University in 2020. He is currently a master student studying informatics (computer science) at Technical University of Munich.
 
 
-His research interest is mainly about robot perception. 
+His research interest is mainly about perception for autonomous driving. 
 
 ### Published Papers
 
