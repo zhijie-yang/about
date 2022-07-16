@@ -23,6 +23,7 @@ His research interest is mainly about perception for autonomous driving.
 
 * [Zhao, Xiting, Zhijie Yang, and Sören Schwertfeger. "Mapping with Reflection - Detection and Utilization of Reflection in 3D Lidar Scans," 2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Abu Dhabi, UAE, 2020, pp. 27-33, doi: 10.1109/SSRR50563.2020.9292595.](https://ieeexplore.ieee.org/abstract/document/9292595)
 
+* [Erçelik, Emeç, et al. "3D Object Detection with a Self-supervised Lidar Scene Flow Backbone." Accepted in ECCV 2022 as oral paper.](https://arxiv.org/abs/2205.00705)
 
 ### Open-source Projects
 
@@ -30,10 +31,12 @@ His research interest is mainly about perception for autonomous driving.
 
 * [SolidCAM DMU 50 post-processor](https://github.com/zhijie-yang/SolidCamPostProcessor)
 
+* [Tennis in Augmented Reality (TUM course project)](https://gitlab.com/mcmikecreations/virtualtennis)
+
 ### Course Projects
 
-* [Electric Circuits Project](./misc/course_project_report/electric_circuits_project.pdf)
+* [Electric Circuits Project (ShanghaiTech)](./misc/course_project_report/electric_circuits_project.pdf)
 
-* [Wireless and Mobile Systems](./misc/course_project_report/wireless_and_mobile_systems.pdf)
+* [Wireless and Mobile Systems (ShanghaiTech)](./misc/course_project_report/wireless_and_mobile_systems.pdf)
 
-* [Operating Systems I Project](./misc/course_project_report/operating_systems_i_project.pdf)
+* [Operating Systems I Project (ShanghaiTech)](./misc/course_project_report/operating_systems_i_project.pdf)
