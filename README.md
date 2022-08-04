@@ -31,7 +31,7 @@ His research interest is mainly about perception for autonomous driving.
 
 * [SolidCAM DMU 50 post-processor](https://github.com/zhijie-yang/SolidCamPostProcessor)
 
-* [Tennis in Augmented Reality (TUM course project)](https://gitlab.com/mcmikecreations/virtualtennis)
+* [Tennis in Augmented Reality (TUM course project)](https://gitlab.com/zhijie-yang/virtualtennis)
 
 ### Course Projects
 
