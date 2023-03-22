@@ -1,5 +1,7 @@
 ## 杨之杰 Zhijie Yang
 
+<img src="./misc/Fotobild_4_3.jpg"  width="80">
+
 Email: zhijie.yang98 *at* outlook *dot* com
 
 Resume: [link](./misc/Resume.pdf)
@@ -23,7 +25,7 @@ His research interest is mainly about perception for autonomous driving.
 
 * [Zhao, Xiting, Zhijie Yang, and Sören Schwertfeger. "Mapping with Reflection - Detection and Utilization of Reflection in 3D Lidar Scans," 2020 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Abu Dhabi, UAE, 2020, pp. 27-33, doi: 10.1109/SSRR50563.2020.9292595.](https://ieeexplore.ieee.org/abstract/document/9292595)
 
-* [Erçelik, Emeç, et al. "3D Object Detection with a Self-supervised Lidar Scene Flow Backbone." Accepted in ECCV 2022 as oral paper.](https://arxiv.org/abs/2205.00705)
+* [Erçelik, Emeç, et al. "3D Object Detection with a Self-supervised Lidar Scene Flow Backbone." In: Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part X. Springer. 2022, pp. 247–265](https://arxiv.org/abs/2205.00705)
 
 ### Open-source Projects
 
@@ -31,9 +33,11 @@ His research interest is mainly about perception for autonomous driving.
 
 * [SolidCAM DMU 50 post-processor](https://github.com/zhijie-yang/SolidCamPostProcessor)
 
-* [Tennis in Augmented Reality (TUM course project)](https://gitlab.com/zhijie-yang/virtualtennis)
+* [Table tennis in Augmented Reality (TUM Augmented Reality course project)](https://gitlab.com/zhijie-yang/virtualtennis)
 
-### Course Projects
+* [Delivery packet station hardware part (TUM Advanced Software Engeering course project)](https://github.com/zhijie-yang/TUM-ASE-Project-Boardend)
+
+### Course Projects (Posters & Reports)
 
 * [Electric Circuits Project (ShanghaiTech)](./misc/course_project_report/electric_circuits_project.pdf)
 
