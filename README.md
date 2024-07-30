@@ -12,10 +12,7 @@ ORCID iD: [link](https://orcid.org/0000-0002-0731-303X)
 
 ### Biography
 
-Zhijie Yang received his Bachelor's Degree of Engineering in Computer Science and Technology from ShanghaiTech University in 2020. He is currently a master student studying informatics (computer science) at Technical University of Munich.
-
-
-His research interest is mainly about perception for autonomous driving. 
+Zhijie Yang received his bachelor's degree in computer science and technology engineering from ShanghaiTech University in 2020. After receiving his master's degree in informatics (computer science) from the Technical University of Munich, he works as a software engineer at Canonical.
 
 ### Published Papers
 
@@ -35,7 +32,7 @@ His research interest is mainly about perception for autonomous driving.
 
 * [Table tennis in Augmented Reality (TUM Augmented Reality course project)](https://gitlab.com/zhijie-yang/virtualtennis)
 
-* [Delivery packet station hardware part (TUM Advanced Software Engeering course project)](https://github.com/zhijie-yang/TUM-ASE-Project-Boardend)
+* [Delivery packet station hardware part (TUM Advanced Software Engineering course project)](https://github.com/zhijie-yang/TUM-ASE-Project-Boardend)
 
 ### Course Projects (Posters & Reports)
 
